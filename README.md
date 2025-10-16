@@ -1,6 +1,6 @@
 # NN_Model_with_TANH_Activation_on_IMDB_Dataset
 
-# Project Overview
+# Overview
 
 This project implements a feedforward neural network for binary sentiment classification on the IMDB
 dataset. The model and experiments explore the effects of activation functions, hidden layers, loss
@@ -21,7 +21,7 @@ functions, and regularization techniques.
 - Loss Function: Binary Crossentropy
 - Metric: Accuracy
 
-# Key Insights
+# Insights
 - Tanh activation provided consistent and smooth convergence.• Using two layers with 32 units achieved the best overall performance.
 - MSE loss degraded performance compared to binary Crossentropy.
 - Dropout and L2 regularization slightly improved validation stability.
