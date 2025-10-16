@@ -1,7 +1,7 @@
 # NN_Model_with_TANH_Activation_on_IMDB_Dataset
 Neural Network with TANH Activation – IMDB Sentiment Classification
 - Overview
-This project implements a feedforward neural network for binary sentiment classification on the IMDB
+- This project implements a feedforward neural network for binary sentiment classification on the IMDB
 dataset. The model and experiments explore the effects of activation functions, hidden layers, loss
 functions, and regularization techniques.
 
@@ -11,7 +11,7 @@ functions, and regularization techniques.
 • Output Labels: 0 = negative, 1 = positive
 • Validation Split: 10,000 samples
 
-Model Configuration
+- Model Configuration
 • Hidden Layers: 2
 • Units per Layer: 16
 • Activation: Tanh
