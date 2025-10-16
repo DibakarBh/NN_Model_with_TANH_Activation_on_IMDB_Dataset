@@ -12,7 +12,7 @@ functions, and regularization techniques.
 - Output Labels: 0 = negative, 1 = positive
 - Validation Split: 10,000 samples
 
-- Model Configuration
+# Model Configuration
 - Hidden Layers: 2
 - Units per Layer: 16
 - Activation: Tanh
